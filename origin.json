@@ -3556,8 +3556,7 @@
             "1000002384"
         ],
         "channel_genre": [
-            "Movies",
-            "HD"
+            "Movies"
         ],
         "channelNumber": "425",
         "dvbTriplet": "d2.1E.BDA",
@@ -3573,63 +3572,6 @@
             "dashWidewinePlayUrl": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/master.mpd",
             "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000625",
             "fairplayUrl": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/index.m3u8"
-        }
-    },
-    {
-        "id": 174,
-        "channel_name": "Romedy Now",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-749-j5l5kb9k-v3/imageContent-749-j5l5kb9k-m3.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-750-j5l5kb9k-v3/imageContent-750-j5l5kb9k-m3.jpg",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-751-j5l5kb9k-v3/imageContent-751-j5l5kb9k-m3.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "English"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000000353",
-            "1000001013",
-            "1000001833",
-            "1000000001",
-            "1000001225",
-            "1000001539",
-            "1000001716",
-            "1000001014",
-            "1000000588",
-            "1000000589",
-            "1000000002",
-            "1000001112",
-            "1000001345",
-            "1000001190",
-            "1000001094",
-            "1000001101",
-            "1000001538",
-            "1000001095",
-            "1000001366",
-            "1000001342",
-            "1000001422",
-            "1000002384",
-            "1000002348",
-            "1000001419",
-            "1000002385"
-        ],
-        "channel_genre": [
-            "Movies"
-        ],
-        "channelNumber": "429",
-        "dvbTriplet": "d2.1B.AA4",
-        "hdChannel": false,
-        "restartTv": false,
-        "isCloudDvr": false,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Romedy Now.png",
-        "provider": "Times",
-        "logoVersion": 1,
-        "streamData": {
-            "MPD=": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/master.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000192",
-            "dashWidewinePlayUrl": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/master.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000192",
-            "fairplayUrl": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/index.m3u8"
         }
     },
     {
